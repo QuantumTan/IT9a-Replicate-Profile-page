@@ -1,3 +1,24 @@
-li{
-    list-style: none !important;
+body{
+    background-color: #f8f9fa !important;
+}
+
+
+li {
+  list-style: none !important;
+}
+
+.trophy-bg{
+    background-color:hsl(45, 100%, 94%) !important ;
+}
+
+.guru-bg{
+    background-color: #e7f0ff !important;
+}
+
+.calendar-bg{
+    background-color:#e9f3ed !important;
+}
+
+.innovator-bg{
+    background-color: #eafafe !important;
 }
