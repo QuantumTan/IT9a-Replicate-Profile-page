@@ -1,8 +1,20 @@
 body{
     background-color: #f8f9fa !important;
+    font-family: 'Roboto', sans-serif;
 }
 
+.text-decoration-none,p{
+    color: #555555;
+}
 
+.profile-title{
+    font-size:large ;
+}
+
+ .profile-sub{
+    color: rgb(82, 82, 82) !important;
+    font-size: medium;
+}
 li {
   list-style: none !important;
 }
